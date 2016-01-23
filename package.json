@@ -1,0 +1,22 @@
+{
+  "name": "graphs",
+  "version": "1.0.0",
+  "description": "A set of javascript tests designed to get you to implement graphs.",
+  "main": "graph.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syanima/graphs.git"
+  },
+  "author": "syanima k s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syanima/graphs/issues"
+  },
+  "homepage": "https://github.com/syanima/graphs#readme"
+}
